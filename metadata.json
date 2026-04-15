@@ -1,0 +1,8 @@
+{
+  "name": "Cathay Securities PMax Visual Planner",
+  "description": "A professional tool for generating and previewing Cathay Securities' PMax advertising visual assets with AI-powered image generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "image_generation"
+  ]
+}
